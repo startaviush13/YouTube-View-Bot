@@ -1,6 +1,6 @@
-search_string = Your Search Here
-min_watch = 10
+search_string = https://www.youtube.com/watch?v=CyMni3NgxBo
+min_watch = 10000
 max_watch = 45
 wait_after = 15
-views = 100
+views = 100000
 multicore = False
